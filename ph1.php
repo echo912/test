@@ -3,3 +3,4 @@
 
 
 phpinfo()；
+for sweet
